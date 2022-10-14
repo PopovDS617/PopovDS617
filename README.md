@@ -13,14 +13,28 @@ I'm Dmitry Popov a FrondEnd Web Developer from Rostov-on-Don, Russia
  [![Linkedin Badge](https://img.shields.io/badge/-empty-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](empty) 
  [![Mail Badge](https://img.shields.io/badge/-popovds.bm-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:popovds.bm@gmail.com)
  [![Telegram Badge](https://img.shields.io/badge/-PopovDS617-white?style=flat&labelColor=0e76a&logo=telegram&logoColor=white)]([t.me/PopovDS617](https://t.me/PopovDS617))
+ 
 
 
 #### Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
+[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
+[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) 
+
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+[![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
+
+
+[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
+[![TailwindCSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
+[![ThreeJS Badge](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](#)
  
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+
+[![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
+[![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](#)
 
 #### Business
 - :paperclip: [My Resume/CV](empty)
