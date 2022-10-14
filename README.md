@@ -15,7 +15,7 @@ I'm Dmitry Popov a FrondEnd Web Developer from Rostov-on-Don, Russia
  [![Telegram Badge](https://img.shields.io/badge/-PopovDS617-white?style=flat&labelColor=0e76a&logo=telegram&logoColor=white)]([t.me/PopovDS617](https://t.me/PopovDS617))
 
 
-#### Top Technologies
+#### Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
