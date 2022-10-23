@@ -35,7 +35,7 @@ My name is Dmitry Popov, I'm a Frondend Web Developer from Rostov-on-Don, Russia
 [![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](#)
 
 #### Business
-- :paperclip: [My Resume/CV](empty)
+<!--- - :paperclip: [My Resume/CV](empty) -->
  
  <br/>
 
