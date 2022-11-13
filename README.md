@@ -3,7 +3,7 @@
 My name is Dmitry Popov, I'm a Frondend Web Developer from Rostov-on-Don, Russia.
 
 <!---  - 🔭 I’m currently working at ________ -->
- - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617) 
+<!--- - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617)  -->
 <!--- - ⚡ Random facts: have a cat (11yo), pet projects based on fantasy books and movies. -->
 
 <br/>
