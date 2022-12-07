@@ -8,7 +8,7 @@ My name is Dmitry Popov, I'm a Frondend Web Developer from Rostov-on-Don, Russia
 
 <br/>
 
-<!-- :mailbox:  Contacts: -->
+:mailbox:  Contacts:
 
  [![Linkedin Badge](https://img.shields.io/badge/-empty-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](empty) 
  [![Mail Badge](https://img.shields.io/badge/-popovds.bm-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:popovds.bm@gmail.com)
