@@ -18,21 +18,39 @@ My name is Dmitry Popov, I'm a Frondend Web Developer from Rostov-on-Don, Russia
 
 ### Stack
 
-[![Javascript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](#) 
-[![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#) 
-<br>
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-<br>
-[![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
-[![TailwindCSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-[![ThreeJS Badge](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)](#)
-<br>
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-<br>
-[![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](#)
-[![Testing-Library](https://img.shields.io/badge/-TestingLibrary-white?style=for-the-badge&logo=testing-library&logoColor=red)](#)
-[![Cypress Badge](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](#)
+ 
+  
+   
+ 
+
+```javascript
+
+const stack = {
+  languages: [Javascript, Typescript],
+  technologies: {
+    frontend: {
+      frameworks: [React, NextJS],
+      styling: [Css, Sass, Tailwind, StyledComponents, Bootstrap, ChakraUI],
+      misc: [ThreeJS, ReactThreeFiber, Drei],
+    },
+    backend: {
+      runtimes: [NodeJS, Deno],
+      framework: Express,
+      databases: [MySQL, PostgreSQL, MongoDB],
+    },
+    testing: {
+      unit: [Jest, Mocha, ReactTestingLibrary],
+      e2e: Cypress,
+    },
+  },
+};
+
+
+
+```
+
+
+
 
 #### Business
 <!--- - :paperclip: [My Resume/CV](empty) -->
