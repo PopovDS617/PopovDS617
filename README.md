@@ -18,34 +18,27 @@ My name is Dmitry Popov, I'm a Frondend Web Developer from Rostov-on-Don, Russia
 
 ### Stack
 
- 
-  
-   
- 
+```json
 
-```javascript
-
-const stack = {
-  languages: [Javascript, Typescript],
-  technologies: {
-    frontend: {
-      frameworks: [React, NextJS],
-      styling: [Css, Sass, Tailwind, StyledComponents, Bootstrap, ChakraUI],
-      misc: [ThreeJS, ReactThreeFiber, Drei],
+{
+  "languages": ["Javascript", "Typescript"],
+  "technologies": {
+    "frontend": {
+      "frameworks": ["React", "NextJS"],
+      "styling": ["CSS", "Sass", "Tailwind", "styled-components", "Bootstrap","ChakraUI"],
+      "misc": ["ThreeJS", "ReactThreeFiber", "Drei"]
     },
-    backend: {
-      runtimes: [NodeJS, Deno],
-      framework: Express,
-      databases: [MySQL, PostgreSQL, MongoDB],
+    "backend": {
+      "runtimes": ["NodeJS", "Deno"],
+      "framework": "Express",
+      "databases": ["MySQL", "PostgreSQL", "MongoDB"]
     },
-    testing: {
-      unit: [Jest, Mocha, ReactTestingLibrary],
-      e2e: Cypress,
-    },
-  },
-};
-
-
+    "testing": {
+      "unit": ["Jest", "Mocha", "React testing library"],
+      "e2e": "Cypress"
+    }
+  }
+}
 
 ```
 
