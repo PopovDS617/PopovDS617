@@ -1,6 +1,6 @@
 ## Hi, I'm Dmitry <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-My name is Dmitry Popov, I'm a Frondend Web Developer from Rostov-on-Don, Russia.
+My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russia.
 
  - 🔭 I’m currently working at ________   
  - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617) 
