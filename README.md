@@ -10,7 +10,7 @@ My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russi
 
 :mailbox:  📯 all contacts:
 
- [![Linkedin Badge](https://img.shields.io/badge/-empty-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](empty) 
+ [![Linkedin Badge](https://img.shields.io/badge/-popov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-popov-872b50261/)
  [![Mail Badge](https://img.shields.io/badge/-popovds.bm-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:popovds.bm@gmail.com)
  [![Telegram Badge](https://img.shields.io/badge/-PopovDS617-white?style=flat&labelColor=0e76a&logo=telegram&logoColor=blue)](https://t.me/PopovDS617)
  
