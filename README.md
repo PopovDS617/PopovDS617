@@ -49,7 +49,8 @@ My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russi
 <!--- - :paperclip: [My Resume/CV](empty) -->
  
  <br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PopovDS617&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PopovDS617&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PopovDS617&theme=highcontrast)](https://git.io/streak-stats)
