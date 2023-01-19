@@ -47,6 +47,10 @@ My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russi
 
 #### Business
 <!--- - :paperclip: [My Resume/CV](empty) -->
+ <br/>
+ 
+ 
+
  
  
 <br/>
