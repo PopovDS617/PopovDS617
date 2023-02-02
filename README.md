@@ -30,7 +30,7 @@ My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russi
     "backend": {
       "runtimes": ["NodeJS", "Deno"],
       "framework": "Express",
-      "databases": ["MySQL", "PostgreSQL", "MongoDB"]
+      "databases": ["MongoDB", "MySQL"]
     },
     "testing": {
       "unit": ["Jest", "Mocha", "React testing library"],
