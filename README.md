@@ -27,10 +27,8 @@ My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russi
       "styling": ["CSS", "Sass", "Tailwind", "styled-components", "Bootstrap","ChakraUI"],
       "misc": ["ThreeJS", "ReactThreeFiber", "Drei"]
     },
-    "backend": {
-      "runtimes": ["NodeJS", "Deno"],
-      "framework": "Express",
-      "databases": ["MongoDB", "MySQL"]
+    "backend": ["NodeJS", "Express"],
+    "databases": ["MongoDB", "MySQL"]
     },
     "testing": {
       "unit": ["Jest", "Mocha", "React testing library"],
