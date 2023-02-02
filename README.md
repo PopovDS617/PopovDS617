@@ -35,7 +35,7 @@ My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russi
       "e2e": "Cypress"
     }
   }
-}
+
 
 ```
 
