@@ -2,9 +2,8 @@
 
 My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russia.
 
- - 🛠️ I’m currently working at ________   
+ <!-- - 🛠️ I’m currently working at ________ -->  
  - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617) 
- - 💡 Random facts: have a cat (11 yo), fond of board games and pub quizes, favorite flavor of ice cream is pistachio, want to get into 3d printing but don't know where to start from
  -  💼 all my pet projects are [here](https://github.com/PopovDS617/list-of-pet-projects/blob/master/list.md)
 <br/>
 
