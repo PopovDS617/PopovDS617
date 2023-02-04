@@ -20,7 +20,7 @@ My name is Dmitry Popov, I'm a Fullstack Web Developer from Rostov-on-Don, Russi
 ```json
 
 {
-  "languages": ["Javascript", "Typescript"],
+  "languages": ["Javascript", "Typescript", "Python"],
   "technologies": {
     "frontend": {
       "frameworks": ["React", "NextJS"],
