@@ -23,9 +23,9 @@ I'm a fullstack web developer from Rostov-on-Don, Russia.
   "languages": ["Javascript", "Typescript", "Python"],
   "technologies": {
     "frontend": {
-      "frameworks": ["React", "NextJS"],
-      "styling": ["CSS", "Sass", "Tailwind", "styled-components", "Bootstrap","ChakraUI"],
-      "misc": ["ThreeJS", "ReactThreeFiber", "Drei"]
+      "frameworks": ["React", "Next.js"],
+      "styling": ["CSS", "Sass", "Tailwind", "styled-components", "Bootstrap", "ChakraUI"],
+      "misc": ["three.js", "React-three-fiber", "drei"]
     },
     "backend": ["NodeJS", "Express"],
     "databases": ["MongoDB", "MySQL"]
