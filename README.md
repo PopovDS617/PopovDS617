@@ -42,8 +42,8 @@ I'm a fullstack web developer from Rostov-on-Don, Russia.
 
 
 
-#### Business
-<!--- - :paperclip: [My Resume/CV](empty) -->
+<!--- #### Business
+ - :paperclip: [My Resume/CV](empty) -->
  <br/>
  
  
