@@ -2,6 +2,8 @@
 
 I'm a fullstack web developer from Rostov-on-Don, Russia.
 
+<img src="https://em-content.zobj.net/thumbs/160/joypixels/340/cat-with-wry-smile_1f63c.png" width="40px" height="40px" alt="cat picture">  [Portfolio page](https://popov.vercel.app) 
+
  <!-- - 🛠️ I’m currently working at ________ -->  
  - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617) 
  -  💼 all my pet projects are [here](https://github.com/PopovDS617/list-of-pet-projects/blob/master/list.md)
