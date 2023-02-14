@@ -20,7 +20,7 @@ I'm a fullstack web developer from Rostov-on-Don, Russia.
 ```json
 
 {
-  "languages": ["Javascript", "Typescript", "Python"],
+  "languages": ["Javascript", "Typescript"],
   "technologies": {
     "frontend": {
       "frameworks": ["React", "Next.js"],
