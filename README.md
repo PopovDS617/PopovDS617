@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://em-content.zobj.net/thumbs/160/joypixels/340/cat-with-wry-smile_1f63c.png" width="40px" height="40px" alt="cat picture">  [Portfolio page](https://popov.vercel.app) 
+[<img src="https://github.com/PopovDS617/PopovDS617/blob/master/screenshot2.jpg" width="296px" height="174px" alt="3d avatar">](https://popov.vercel.app) 
 
 <br/>
 
