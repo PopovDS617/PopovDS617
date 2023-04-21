@@ -12,11 +12,11 @@
  -  💼 all my pet projects are [here](https://github.com/PopovDS617/list-of-pet-projects/blob/master/list.md)
 <br/>
 
-:mailbox:  📯 all contacts:
+<!--:mailbox:  📯 all contacts:
 
- <!--[![Linkedin Badge](https://img.shields.io/badge/-popov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-popov-872b50261/) -->
+ [![Linkedin Badge](https://img.shields.io/badge/-popov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-popov-872b50261/) 
  [![Mail Badge](https://img.shields.io/badge/-popovds.bm-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:popovds.bm@gmail.com)
- [![Telegram Badge](https://img.shields.io/badge/-PopovDS617-white?style=flat&labelColor=0e76a&logo=telegram&logoColor=blue)](https://t.me/PopovDS617)
+ [![Telegram Badge](https://img.shields.io/badge/-PopovDS617-white?style=flat&labelColor=0e76a&logo=telegram&logoColor=blue)](https://t.me/PopovDS617) -->
  
 
 
