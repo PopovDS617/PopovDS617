@@ -2,8 +2,6 @@
 
 ### I'm a fullstack developer from Rostov-on-Don, Russia. This is my personal GH profile
 
-
-
 [<img src="https://github.com/PopovDS617/PopovDS617/blob/master/screenshot2.jpg" width="296px" height="174px" alt="3d avatar">](https://popov.vercel.app) 
 
 <br/>
@@ -17,9 +15,6 @@
  [![Linkedin Badge](https://img.shields.io/badge/-popov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-popov-872b50261/) 
  [![Mail Badge](https://img.shields.io/badge/-popovds.bm-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:popovds.bm@gmail.com)
  [![Telegram Badge](https://img.shields.io/badge/-PopovDS617-white?style=flat&labelColor=0e76a&logo=telegram&logoColor=blue)](https://t.me/PopovDS617) -->
- 
-
-
 ### Stack
 
 ```json
@@ -43,17 +38,6 @@
 
 
 ```
-
-
-
-
-<!--- #### Business
- - :paperclip: [My Resume/CV](empty) -->
- <br/>
- 
- 
-
- 
  
 <br/>
 
