@@ -24,17 +24,19 @@
   "technologies": {
     "frontend": {
       "frameworks": ["React", "Next.js"],
-      "styling": ["CSS", "Sass", "Tailwind", "styled-components", "Bootstrap", "ChakraUI"],
-      "misc": ["three.js", "React-three-fiber", "drei"]
+      "styling": ["Sass", "Tailwind", "styled-components", "ChakraUI"],
+      "misc": ["three.js", "storybook"]
     },
-    "backend": ["NodeJS", "Express"],
-    "databases": ["MongoDB", "MySQL"]
+    "backend": {
+      "nodejs": ["Express", "Koa", "NestJS"]
     },
-    "testing": {
-      "unit": ["Jest", "Mocha", "React testing library"],
-      "e2e": "Cypress"
-    }
+    "databases": ["MongoDB", "SQL"]
+  },
+  "testing": {
+    "unit": ["Jest", "React testing library"],
+    "e2e": ["Cypress", "Playwright"]
   }
+}
 
 
 ```
