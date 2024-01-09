@@ -25,16 +25,16 @@
     "frontend": {
       "frameworks": ["React", "Next.js"],
       "styling": ["Sass", "Tailwind", "styled-components", "ChakraUI"],
+      "testing": {
+        "unit": ["Jest", "React testing library"],
+        "e2e": ["Cypress", "Playwright"]
+      },
       "misc": ["three.js", "storybook"]
     },
     "backend": {
       "nodejs": ["Express", "Koa", "NestJS"]
     },
     "databases": ["MongoDB", "SQL"]
-  },
-  "testing": {
-    "unit": ["Jest", "React testing library"],
-    "e2e": ["Cypress", "Playwright"]
   }
 }
 
