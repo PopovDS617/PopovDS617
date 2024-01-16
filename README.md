@@ -3,7 +3,7 @@
 ### > I'm a fullstack developer from Rostov-on-Don, Russia. This is my personal GH profile
 
 
-[<img src="https://github.com/PopovDS617/PopovDS617/blob/master/screenshot2.jpg" width="296px" height="174px" alt="3d avatar">](popov-d.site) 
+[<img src="https://github.com/PopovDS617/PopovDS617/blob/master/screenshot2.jpg" width="296px" height="174px" alt="3d avatar">](https://popov-d.site) 
 
 <br/>
 
