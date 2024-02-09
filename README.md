@@ -32,7 +32,7 @@
       "misc": ["three.js", "storybook"]
     },
     "backend": {
-      "nodejs": ["Express", "Koa", "NestJS"]
+      "nodejs": ["Express", "NestJS"]
     },
     "databases": ["MongoDB", "SQL"]
   }
