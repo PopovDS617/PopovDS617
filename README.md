@@ -33,7 +33,7 @@
     },
     "backend": {
       "nodejs": ["express", "nestJS"],
-      "go":["gin", "fiber", "chi"]
+      "go": ["gin", "fiber", "chi"]
     },
     "databases": ["mongoDB", "sql"]
   }
