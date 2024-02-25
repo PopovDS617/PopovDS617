@@ -8,7 +8,7 @@
 <br/>
 
  - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617) 
-<!--: -  💼 all my pet projects are [here](https://github.com/PopovDS617/list-of-pet-projects/blob/master/list.md)
+ -  💼 all my pet projects are [here](https://github.com/PopovDS617/list-of-pet-projects/blob/master/list.md)
 <br/>
 
 <!--:mailbox:  📯 all contacts:
