@@ -35,7 +35,7 @@
       "nodejs": ["express", "nestJS"],
       "go": ["gin", "fiber", "chi"]
     },
-    "databases": ["mongoDB", "postgreSQL"]
+    "databases": ["postgreSQL", "mongoDB"]
   }
 }
 
