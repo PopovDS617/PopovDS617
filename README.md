@@ -5,10 +5,10 @@
 
 [<img src="https://github.com/PopovDS617/PopovDS617/blob/master/screenshot2.jpg" width="296px" height="174px" alt="3d avatar">](https://dpopov.site) 
 
-<br/>
+
 
  - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617) 
-<br/>
+
 
 <!--:mailbox:  📯 all contacts:
 
