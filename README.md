@@ -19,22 +19,22 @@
 ```json
 
 {
-  "languages": ["Typescript", "Go"],
+  "languages": ["go", "typescript"],
   "technologies": {
+    "backend": {
+      "go": ["gin", "fiber", "chi", "gorilla"],
+      "nodejs": ["express", "nestJS"]
+    },
+    "databases": ["postgreSQL", "mongoDB", "redis"],
     "frontend": {
       "frameworks": ["react", "next.js"],
-      "styling": ["sass", "tailwind", "styled-components", "chakraUI"],
+      "styling": ["sass", "tailwind", "styled components", "chakra"],
       "testing": {
         "unit": ["jest", "react testing library"],
         "e2e": ["cypress", "playwright"]
       },
       "misc": ["three.js", "storybook"]
-    },
-    "backend": {
-      "nodejs": ["express", "nestJS"],
-      "go": ["gin", "fiber", "chi"]
-    },
-    "databases": ["postgreSQL", "mongoDB"]
+    }
   }
 }
 
