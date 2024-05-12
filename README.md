@@ -40,7 +40,7 @@
 
 ```
 <br/>
-<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PopovDS617&layout=compact&theme=highcontrast&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
