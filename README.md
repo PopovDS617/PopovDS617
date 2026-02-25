@@ -25,7 +25,7 @@
       "go": ["gin", "fiber", "chi", "gorilla"],
       "nodejs": ["express", "nestJS"]
     },
-    "databases": ["postgreSQL", "mongoDB", "redis"],
+    "databases": ["postgresql", "clickhouse", "redis", "mongoDB"],
     "frontend": {
       "frameworks": ["react", "next.js"],
       "styling": ["sass", "tailwind", "styled components", "chakra"],
