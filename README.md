@@ -8,7 +8,7 @@
 
 
  - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617)
- - 👀 Check out my [website](https://dpopov.site/)
+ - 👀 Check out my [website](https://popov.vercel.app)
 
 
 <!--:mailbox:  📯 all contacts:
