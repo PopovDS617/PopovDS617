@@ -3,12 +3,12 @@
 ### > I'm a fullstack developer from Rostov-on-Don, Russia. This is my personal GH profile
 
 
-<!-- [<img src="https://github.com/PopovDS617/PopovDS617/blob/master/screenshot2.jpg" width="296px" height="174px" alt="3d avatar">](https://dpopov.site) -->
+[<img src="https://github.com/PopovDS617/PopovDS617/blob/master/screenshot2.jpg" width="296px" height="174px" alt="3d avatar">](https://popov.vercel.app)
 
 
 
  - 📫 You can contact me via email: [popovds.bm@gmail.com](mailto:popovds.bm@gmail.com) or telegram: [t.me/PopovDS617](https://t.me/PopovDS617)
-<!-- - 👀 Check out my [website](https://dpopov.site/) -->
+ - 👀 Check out my [website](https://dpopov.site/)
 
 
 <!--:mailbox:  📯 all contacts:
