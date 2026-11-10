@@ -41,7 +41,7 @@
 ```
 <br/>
 
-[![Top Langs](https://github-stats-extended.vercel.api/top-langs/?username=PopovDS617&layout=compact&theme=highcontrast&langs_count=10)](https://github-stats-extended.vercel.app)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=PopovDS617&layout=compact&theme=highcontrast&langs_count=10)](https://github-stats-extended.vercel.app)
 
 <br/>
 
